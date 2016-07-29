@@ -1,0 +1,19 @@
+
+.card {
+    width: 200px;
+    margin: 10px;
+}
+
+#player-guess {
+    text-align: center;
+}
+
+#deck {
+    text-align: center;
+}
+
+button {
+    width: 250px;
+    height: 50px;
+    font-size: 1.3em;
+}

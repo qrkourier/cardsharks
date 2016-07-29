@@ -1,0 +1,20 @@
+{"cards": [
+  {
+    "value": "2", 
+    "images": 
+    {
+      "svg":
+"http://deckofcardsapi.com/static/img/2S.svg", 
+      "png":
+"http://deckofcardsapi.com/static/img/2S.png"}, 
+      "suit": "SPADES", 
+      "image":
+"http://deckofcardsapi.com/static/img/2S.png", 
+      "code": "2S"
+  }
+], 
+"deck_id":
+"5jxxf0tcv33v", 
+"remaining": 51, 
+"success": true
+}
